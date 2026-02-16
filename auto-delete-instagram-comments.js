@@ -43,7 +43,7 @@
    * Runtime configuration.
    * Keep MAX low for reliability.
    */
-  const MAX = 10;
+  const MAX = 50;
   const CYCLE_DELAY = 20000;
   const SELECT_DELAY = 1200;
   const ICON_DELAY = 700;
